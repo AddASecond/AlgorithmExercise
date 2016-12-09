@@ -1,8 +1,8 @@
 # AlgorithmExercise
 My own daily algorithm exercise set.
 #20161210log
-Today's question is Binary Tree Mirror:
-English Version:
+Today's question is Binary Tree Mirror:  
+English Version:  
 Title Description:  
 Transform a given binary tree into a mirror of the source tree.  
 Enter a description:  
